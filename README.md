@@ -1,2 +1,2 @@
 # KA-Programs
-These are Khan Academy Programs.
+These are my Khan Academy Programs.
